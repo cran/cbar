@@ -1,5 +1,5 @@
 ---
-title: "Contextul anomaly"
+title: "Contextual anomaly"
 author:
 - "Kim Seonghyun"
 date: "`r Sys.Date()`"
@@ -9,7 +9,7 @@ output:
       toc_float: true
       theme: flatly
 vignette: >
-  %\VignetteIndexEntry{quickstart}
+  %\VignetteIndexEntry{contextual-anomaly}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
